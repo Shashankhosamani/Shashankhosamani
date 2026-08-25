@@ -80,14 +80,11 @@
 ### 📊 The numbers
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Shashankhosamani&show_icons=true&theme=github_dark&hide_border=true&bg_color=161b22&title_color=4493f8&icon_color=4493f8&text_color=8b949e" alt="stats" />
+  <img height="150" src="https://github-stats-extended.vercel.app/api?username=Shashankhosamani&show_icons=true&theme=github_dark&hide_border=true&bg_color=161b22&title_color=4493f8&icon_color=4493f8&text_color=8b949e" alt="stats" />
   <img height="150" src="https://streak-stats.demolab.com?user=Shashankhosamani&theme=github-dark-blue&hide_border=true&background=161b22&ring=4493f8&fire=4493f8&currStreakLabel=4493f8" alt="streak" />
 </p>
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashankhosamani&layout=compact&theme=github_dark&hide_border=true&bg_color=161b22&title_color=4493f8&text_color=8b949e" alt="top languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashankhosamani&theme=github-compact&hide_border=true&bg_color=161b22&color=8b949e&line=4493f8&point=e6edf3" alt="activity graph" width="98%" />
+  <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs?username=Shashankhosamani&layout=compact&theme=github_dark&hide_border=true&bg_color=161b22&title_color=4493f8&text_color=8b949e" alt="top languages" />
 </p>
 
 ---
