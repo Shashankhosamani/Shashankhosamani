@@ -53,24 +53,24 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Shashankhosamani/expense-app">expense-app</a> &nbsp;<img src="https://img.shields.io/badge/active-3fb950?style=flat-square&labelColor=161b22" /></h4>
+      <h4><a href="https://github.com/Shashankhosamani/expense-app">expense-app</a></h4>
       <p>Reads bank SMS and files your transactions automatically — no manual entry.</p>
       <p><code>React</code> <code>Node</code> <code>MongoDB</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Sourabha123-gokavi/PES1UG21CS557_PES1UG21CS579_PES1UG21CS597_PES1UG21CS608_Microservices-communication-using-RabbitMQ">rabbitmq-microservices</a> &nbsp;<img src="https://img.shields.io/badge/systems-8b949e?style=flat-square&labelColor=161b22" /></h4>
+      <h4><a href="https://github.com/Sourabha123-gokavi/PES1UG21CS557_PES1UG21CS579_PES1UG21CS597_PES1UG21CS608_Microservices-communication-using-RabbitMQ">rabbitmq-microservices</a></h4>
       <p>Inventory system split into services that talk over a message queue.</p>
       <p><code>Docker</code> <code>AMQP</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Shashankhosamani/OS-Task-Lister-using-Kernel-Module">OS-Task-Lister</a> &nbsp;<img src="https://img.shields.io/badge/low--level-8b949e?style=flat-square&labelColor=161b22" /></h4>
+      <h4><a href="https://github.com/Shashankhosamani/OS-Task-Lister-using-Kernel-Module">OS-Task-Lister</a></h4>
       <p>Linux kernel module that walks every live task from init downward.</p>
       <p><code>C</code> <code>Linux</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Shashankhosamani/3D-protfolio">3D-portfolio</a> &nbsp;<img src="https://img.shields.io/badge/for%20fun-a371f7?style=flat-square&labelColor=161b22" /></h4>
+      <h4><a href="https://github.com/Shashankhosamani/3D-protfolio">3D-portfolio</a></h4>
       <p>Three.js scene where the engineering brain goes off-duty. Models made in Blender.</p>
       <p><code>Three.js</code> <code>Blender</code></p>
     </td>

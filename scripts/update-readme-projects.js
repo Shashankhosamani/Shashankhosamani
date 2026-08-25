@@ -35,7 +35,6 @@ const REPO_FIELDS = `
   name
   url
   description
-  stargazerCount
   primaryLanguage { name }
   languages(first: 3, orderBy: { field: SIZE, direction: DESC }) { nodes { name } }
 `;
@@ -96,10 +95,8 @@ function renderCard(repo) {
   const tags = langs.length
     ? langs.map((l) => `<code>${escapeHtml(l)}</code>`).join(" ")
     : "<code>—</code>";
-  const stars = repo.stargazerCount ?? 0;
-  const starBadge = `<img src="https://img.shields.io/badge/%E2%98%85%20${stars}-8b949e?style=flat-square&labelColor=161b22" />`;
   return `    <td width="50%" valign="top">
-      <h4><a href="${repo.url}">${escapeHtml(repo.name)}</a> &nbsp;${starBadge}</h4>
+      <h4><a href="${repo.url}">${escapeHtml(repo.name)}</a></h4>
       <p>${desc}</p>
       <p>${tags}</p>
     </td>`;
