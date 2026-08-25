@@ -48,6 +48,8 @@
 
 ### 📌 Things I've built
 
+<!-- Auto-refreshed daily by .github/workflows/update-projects.yml from live pinned repos — do not hand-edit between the markers, your changes will be overwritten. -->
+<!-- PROJECTS:START -->
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -74,6 +76,7 @@
     </td>
   </tr>
 </table>
+<!-- PROJECTS:END -->
 
 ---
 
