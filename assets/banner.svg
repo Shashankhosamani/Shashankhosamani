@@ -19,10 +19,4 @@
 
   <rect x="72" y="222" width="48" height="3" fill="#4493f8" />
   <text x="136" y="230" font-family="'JetBrains Mono','Courier New',monospace" font-size="19" fill="#8b949e">builds APIs, breaks staging, renders in Blender</text>
-
-  <line x1="1050" y1="88" x2="1050" y2="240" stroke="#21262d" stroke-width="3" />
-  <text x="1208" y="112" text-anchor="end" font-family="'JetBrains Mono','Courier New',monospace" font-size="17" fill="#6e7681">MERN</text>
-  <text x="1208" y="146" text-anchor="end" font-family="'JetBrains Mono','Courier New',monospace" font-size="17" fill="#6e7681">Docker &#183; RabbitMQ</text>
-  <text x="1208" y="180" text-anchor="end" font-family="'JetBrains Mono','Courier New',monospace" font-size="17" fill="#6e7681">Linux &#183; C</text>
-  <text x="1208" y="214" text-anchor="end" font-family="'JetBrains Mono','Courier New',monospace" font-size="17" fill="#3fb950">open to work</text>
 </svg>
