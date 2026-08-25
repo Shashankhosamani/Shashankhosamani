@@ -1,6 +1,5 @@
 <!--
   Shashank Hosamani — profile README (design 2a)
-  Replace every YOUR_* placeholder before committing.
 -->
 
 <!-- BANNER -->
@@ -95,10 +94,10 @@
 ### Let's talk 🤝
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://leetcode.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/LeetCode-ffa116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.linkedin.com/in/shashank-l-h/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:shashankhosamani1109@gmail.com"><img src="https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://x.com/shashank__L__H"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://leetcode.com/u/Shashank_L_Hosamani/"><img src="https://img.shields.io/badge/LeetCode-ffa116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
 
 <p align="center"><sub>thanks for scrolling this far ✌</sub></p>
