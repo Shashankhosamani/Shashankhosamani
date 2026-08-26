@@ -52,26 +52,38 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Shashankhosamani/expense-app">expense-app</a></h4>
-      <p>Reads bank SMS and files your transactions automatically — no manual entry.</p>
-      <p><code>React</code> <code>Node</code> <code>MongoDB</code></p>
+      <h4><a href="https://github.com/Shashankhosamani/Bank-Management-System-with-php">Bank-Management-System-with-php</a></h4>
+      <p>No description yet.</p>
+      <p><code>PHP</code> <code>Hack</code> <code>HTML</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Sourabha123-gokavi/PES1UG21CS557_PES1UG21CS579_PES1UG21CS597_PES1UG21CS608_Microservices-communication-using-RabbitMQ">rabbitmq-microservices</a></h4>
-      <p>Inventory system split into services that talk over a message queue.</p>
-      <p><code>Docker</code> <code>AMQP</code></p>
+      <h4><a href="https://github.com/Shashankhosamani/Online_Voting_System_Using_MVC_Java">Online_Voting_System_Using_MVC_Java</a></h4>
+      <p>No description yet.</p>
+      <p><code>Java</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Shashankhosamani/OS-Task-Lister-using-Kernel-Module">OS-Task-Lister</a></h4>
-      <p>Linux kernel module that walks every live task from init downward.</p>
-      <p><code>C</code> <code>Linux</code></p>
+      <h4><a href="https://github.com/Shashankhosamani/solarpanelDigitalTwin">solarpanelDigitalTwin</a></h4>
+      <p>No description yet.</p>
+      <p><code>C#</code> <code>HLSL</code> <code>ShaderLab</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Shashankhosamani/3D-protfolio">3D-portfolio</a></h4>
-      <p>Three.js scene where the engineering brain goes off-duty. Models made in Blender.</p>
-      <p><code>Three.js</code> <code>Blender</code></p>
+      <h4><a href="https://github.com/Shashankhosamani/3D-protfolio">3D-protfolio</a></h4>
+      <p>No description yet.</p>
+      <p><code>JavaScript</code> <code>CSS</code> <code>HTML</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Shashankhosamani/SolarpanelFabrik">SolarpanelFabrik</a></h4>
+      <p>No description yet.</p>
+      <p><code>JavaScript</code> <code>CSS</code> <code>HTML</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Shashankhosamani/expense-app">expense-app</a></h4>
+      <p>No description yet.</p>
+      <p><code>Kotlin</code> <code>TypeScript</code> <code>CSS</code></p>
     </td>
   </tr>
 </table>
