@@ -83,7 +83,7 @@
     <td width="50%" valign="top">
       <h4><a href="https://github.com/Shashankhosamani/expense-app">expense-app</a></h4>
       <p>No description yet.</p>
-      <p><code>Kotlin</code> <code>TypeScript</code> <code>CSS</code></p>
+      <p><code>JavaScript</code> <code>TypeScript</code> <code>Kotlin</code></p>
     </td>
   </tr>
 </table>
